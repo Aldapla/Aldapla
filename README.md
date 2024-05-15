@@ -1,4 +1,7 @@
-👋 Hi, I’m Daniel Álvarez Placencia - @Aldapla
+👋 Hi, I’m Daniel Álvarez Placencia - @Aldapla  
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm fascinated by technology, computers, robots, and multimedia.
 
 ## About Me
 
@@ -10,15 +13,8 @@
 
 💞️ I’m eager to collaborate on MRI image analysis projects, aiming to transform medical diagnostics.
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm fascinated by technology, computers, robots, and multimedia. I thrive on integrating these fields to discover groundbreaking solutions.
+📝 **Favorite Quote**: "Information is power. But like all power, there are those who want to keep it for themselves." - Aaron Swartz
 
 ## Connect with Me
 
 📫 Reach out to me: [daniel.alvarez.p@mail.pucv.cl]
-
-<!---
-Aldapla/Aldapla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
